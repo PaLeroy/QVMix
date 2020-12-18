@@ -41,4 +41,4 @@ TBA
 ```
 
 ## Credits
-This code has been adapted from [Pymarl](github.com/oxwhirl/pymarl), the Python MARL framework.
+This code has been adapted from the [Python MARL framework (pymarl)](github.com/oxwhirl/pymarl) and from the [Maven implementation](https://github.com/AnujMahajanOxf/MAVEN).
