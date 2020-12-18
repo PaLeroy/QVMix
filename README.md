@@ -28,7 +28,7 @@ deactivate
 ```
 
 ## Paper hypeparameters
-The [config files](PaLeroy/QVMix/tree/main/src/config) provided are the one used to train the different methods for the experiments of the paper.
+The [config files](https://github.com/PaLeroy/QVMix/tree/main/src/config) provided are the one used to train the different methods for the experiments of the paper.
 
 You can use the `run_all.sh` script to train sequentially each of the seven method on a given map.
 
