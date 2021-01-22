@@ -37,7 +37,13 @@ You can use the `run_all.sh` script to train sequentially each of the seven meth
 If you use QVMix implementation in your own work, please cite our paper:
 
 ```
-TBA
+@article{leroy2020qvmix,
+  title={QVMix and QVMix-Max: extending the deep quality-value family of algorithms to cooperative multi-agent reinforcement learning},
+  author={Leroy, Pascal and Ernst, Damien and Geurts, Pierre and Louppe, Gilles and Pisane, Jonathan and Sabatelli, Matthia},
+  journal={AAAI-21 Workshop on Reinforcement Learning in Games},
+  year={2020}
+}
+
 ```
 
 ## Credits
